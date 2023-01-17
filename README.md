@@ -1,1 +1,1 @@
-[Popsicle Licker Clicker](https://popsicle.tk/){target=_blank}
+[Popsicle Licker Clicker](https://popsicle.tk/)(ctrl + click)
