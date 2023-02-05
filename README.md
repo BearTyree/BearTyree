@@ -1,12 +1,12 @@
 > End Censorship in Schools
 
 # Projects
-- [Popsicle Licker Clicker](https://popsicle.tk/) *(GA)* 
-          > a popsicle licking clicker game
-- [Plastic](https://plastic.ml) *(pre-alpha)* 
-          > a movement fps
-- [Gravity is Perspective](https://bananastudios.tk) *(alpha)* 
-          > a puzzle platformer
+- [x] *(GA)* [Popsicle Licker Clicker](https://popsicle.tk/)  
+    - *a popsicle licking clicker game*
+- [ ] *(pre-alpha)* [Plastic](https://plastic.ml) 
+    - *a movement fps*
+- [ ] *(alpha)* [Gravity is Perspective](https://bananastudios.tk) 
+    - *a puzzle platformer*
  ```javascript 
  import your mom
  ````
