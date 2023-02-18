@@ -1,7 +1,7 @@
 > End Censorship in Schools
 
 # Projects
-- [x] *(GA)* [Popsicle Licker Clicker](https://popsicle.tk/)  
+- [x] *(GA)* <a href='https://popsicle.tk/' target='_blank'>Popsicle Licker Clicker</a> 
     - *a popsicle licking clicker game*
 - [ ] *(pre-alpha)* [Plastic](https://plastic.ml) 
     - *a movement fps*
@@ -10,4 +10,3 @@
  ```javascript 
  import your mom
  ````
-<a href='https://popsicle.tk/'>lol</a>
