@@ -1,2 +1,2 @@
 # Bear Tyree
-Exceeding expectations since 2008
+Exceeding expectations (most of the time) since 2008
