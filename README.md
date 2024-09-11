@@ -12,6 +12,10 @@ Hidden Valley High student in the HVHacks Hack Club. Enrolled in Mass Communicat
   - MongoDB
   - Cloudflare Workers
   - Vanilla JS, HTML, CSS
+- Game Dev
+  - Unity
+  - C#
+  - Scratch 💀💀 (back in the day) 
 - Mass Communications
   - Graphic Design
   - Video Editing
