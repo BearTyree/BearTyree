@@ -2,15 +2,16 @@
 #### *Exceeding expectations (most of the time) since 2008* <br />
 Hidden Valley High student in the HVHacks Hack Club. Enrolled in Mass Communications at BCAT.
 ### Projects
-- Working on an obsidian plugin for adding Canvas LMS tasks
-- Working on a blog using astro
-- Maybe working on a rally racing pacenotes app in the future
+- [Rizz Quotient Test](https://rizzquotient.com)
+- [Desmos Chat](https://desmos.help/calculator)
+- [Popsicle Licker Clicker](https://beartyree.github.io/PopsicleClicker/)
+- [Model Swappable ChatGPT Clone](https://chatgpt-clone-76c.pages.dev/)
 ### Skills
 - Web Dev
   - React
   - NodeJs
   - MongoDB
-  - Cloudflare Workers
+  - Cloudflare Workers, D1, Durable Objects, & KV
   - Vanilla JS, HTML, CSS
 - Game Dev
   - Unity
