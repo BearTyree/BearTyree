@@ -1,5 +1,4 @@
 # Bear Tyree 
-#### *Exceeding expectations (most of the time) since 2008* <br />
 Hidden Valley High student in the HVHacks Hack Club. Enrolled in Mass Communications at BCAT.
 ### Projects
 - [Rizz Quotient Test](https://rizzquotient.com)
