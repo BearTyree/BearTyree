@@ -6,3 +6,18 @@ Hidden Valley High student in the HVHacks Hack Club. Enrolled in Mass Communicat
 - [Model Swappable ChatGPT Clone](https://chatgpt-clone-76c.pages.dev/)
 - [Popsicle Licker Clicker](https://beartyree.github.io/PopsicleClicker/)
 - [Gravity is Perspective](https://beartyree.github.io/GravityIsPerspective/)
+### Skills
+- Web Dev
+  - React
+  - NodeJs
+  - MongoDB
+  - Cloudflare Workers, D1, Durable Objects, & KV
+  - Vanilla JS, HTML, CSS
+- Game Dev
+  - Unity
+  - C#
+- Mass Communications
+  - Graphic Design
+  - Video Editing
+  - 3d Modeling, Rendering & Animation
+  - Photography & Cinematograhpy
