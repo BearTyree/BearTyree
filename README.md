@@ -1,6 +1,7 @@
-- [Rizz Quotient Test](https://rizzquotient.com)
-- [Desmos Chat](https://desmos.help/calculator)
-- [Model Swappable ChatGPT Clone](https://chatgpt-clone-76c.pages.dev/)
-- [Popsicle Licker Clicker](https://beartyree.github.io/PopsicleClicker/)
-- [Gravity is Perspective](https://beartyree.github.io/GravityIsPerspective/)
-- [Canvas Task Importer](https://github.com/jordaeday/canvas-task-importer)
+Our social contract punishes people that don't want to be punished if it helps the greater good, but should we be helping people when they don't want to be helped if it helps the greater good?
+
+Why does it piss me off so much when companies and professionals describe themselves with a list of words or an acronym?
+Any of the words in the acronym or list could easily be switched with something else, and it never has any actual tie to the person or company. It could apply to anyone. It could've been a million different words.
+We reach specificity by combining words in a way such that each word adds context to the next until we reach a meaning that is far different than just the sum of each individual meaning of the words in the sentence.
+
+I feel like I'm drowning alone right now in the silence that surrounds me and pushes me inward. It didn't hit me that tonight was probably the last night until the very last moments; it's so fresh to me. It was only a few hours ago I was shouting at Colin on the phone and rushing from place to place, and all the sudden it's all gone. That's the thing about most goodbye's, there's never any smooth transition; you're just with them, and then you aren't. If anything the goodbye probably makes it more extreme. Without a goodbye you could just see someone less and less until slowly it doesn't matter when you don't see them, but with a goodbye it makes the cut so extreme. You're so close--most people even hug--and then you rip it all off and become so far, all in a matter of moments. I think we do this despite the pain that it adds, to show ourselves how much someone actually meant to us. We don't say goodbye to make the transition easier; we say goodbye to make the transition harder, but in doing so, the hardness shows us how good those times really were. That was like tonight. Tonight was my final goodbye to Caleb, and probably many of my friends that I don't yet realize it is my final goodbye to, but most importantly, tonight was my last goodbye to highschool. I got as close to highschool as I could, hugged it even, hosting a party with my friends in an abandoned building at night, driving around to get supplies, eating several meals together, managing things with Colin etc., and then leaving it behind, walking away. No more bustling.
